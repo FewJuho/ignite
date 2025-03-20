@@ -241,7 +241,7 @@ public class ReliabilityTest extends AbstractThinClientTest {
         }
     }
 
-        /**
+    /**
      * Test single server can be used multiple times in configuration.
      */
     @Test
